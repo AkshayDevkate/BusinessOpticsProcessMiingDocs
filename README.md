@@ -105,3 +105,11 @@ Integrate and maximize new technologies (including automation, AI, ML, RPA) to h
 
 [Click here](https://www.businessoptix.com/experience/pharmaceutical/) to learn more.
 
+# Research and Education 
+
+Focus on your mission of innovation, maintaining and growing funding, managing and evidence risk and compliance requirement.
+
+BusinessOptix has helped research and education institutions achieve operational efficiencies across processes such as annual course set-up and management, managing the sourcing and usage of grants and sponsorships and providing standardization and governance to employee facing processes.
+
+[click here](https://www.businessoptix.com/experience/research-education/) to learn more.
+
