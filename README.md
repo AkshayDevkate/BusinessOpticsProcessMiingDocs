@@ -113,3 +113,12 @@ BusinessOptix has helped research and education institutions achieve operational
 
 [click here](https://www.businessoptix.com/experience/research-education/) to learn more.
 
+# Resources 
+
+1. case Studies [learn more](https://www.businessoptix.com/resource_type/case-studies/)
+
+2. White papers [learn more](https://www.businessoptix.com/resource_type/white-papers/)
+
+3. Data sheets [learn more](https://www.businessoptix.com/resource_type/data-sheets/)
+
+4. Training material [learn more](https://www.businessoptix.com/resource_type/training-materials/)
